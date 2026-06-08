@@ -1,0 +1,6 @@
+{
+  "name": "Lista de Aniversários",
+  "description": "Uma lista de aniversários colorida e prática para amigos, familiares, famosos e lembretes de datas importantes, integrada ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
